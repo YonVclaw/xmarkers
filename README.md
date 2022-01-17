@@ -4,16 +4,16 @@
 
 <p align="center">
     <a href="https://github.com/YonVclaw/xmarkers/releases/latest">
-        <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg?style=flat-square" alt="ACE Project Template Version">
+        <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg?style=flat-square" alt="Version">
     </a>
     <a href="https://github.com/YonVclaw/xmarkers/issues">
-        <img src="https://img.shields.io/github/issues-raw/acemod/arma-project-template.svg?style=flat-square&label=Issues" alt="ACE Project Template Issues">
+        <img src="https://img.shields.io/github/issues-raw/acemod/arma-project-template.svg?style=flat-square&label=Issues" alt="Issues">
     </a>
     <a href="https://github.com/YonVclaw/xmarkers/releases">
-        <img src="https://img.shields.io/github/downloads/acemod/arma-project-template/total.svg?style=flat-square&label=Downloads" alt="ACE Project Template Downloads">
+        <img src="https://img.shields.io/github/downloads/acemod/arma-project-template/total.svg?style=flat-square&label=Downloads" alt="Downloads">
     </a>
     <a href="https://github.com/YonVclaw/xmarkers/blob/master/LICENSE">
-        <img src="https://img.shields.io/badge/License-MIT-red.svg?style=flat-square" alt="ACE Project Template License">
+        <img src="https://img.shields.io/badge/License-MIT-red.svg?style=flat-square" alt="License">
     </a>
 </p>
 <p align="center">
