@@ -1,4 +1,4 @@
-name = "X Markers"
+name = "XMarkers"
 prefix = "XMARK"
 author = "XMARK"
 template = "cba"
@@ -15,12 +15,14 @@ files = [
     "extras/addons",
     "extras/keys",
     "AUTHORS.txt",
-    "cow.paa"
+    "cow.paa",
+    "icow.paa",
+    "ncow.paa"
     ]
 
 exclude = ["*.psd", "*.png", "*.tga"]
 
-
+version = "1.0.0"
 modname = "{{name}}"
 key_name = "{{prefix}}_{{version}}"
 authority = "{{prefix}}_{{version}}-{{git \"id 8\"}}"
@@ -39,7 +41,7 @@ releasebuild = [
 ]
 
 [header_exts]
-version = "{{git \"id 8\"}}"
+
 
 
 [scripts.compile_scripts]

@@ -1,170 +1,212 @@
 class CfgMarkers {
     class iconcasap {
         name = "CAS Action Point";
-        icon = "z\havoc\addons\xmarkers\data\aap.paa";
+        icon = "z\XMARK\addons\xmarkers\data\aap.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };
     class iconcasbp {
         name = "CAS Battle Point";
-        icon = "z\havoc\addons\xmarkers\data\abp.paa";
+        icon = "z\XMARK\addons\xmarkers\data\abp.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };
     class iconcascp {
         name = "CAS Control Point";
-        icon = "z\havoc\addons\xmarkers\data\acp.paa";
+        icon = "z\XMARK\addons\xmarkers\data\acp.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };
     class iconcasop {
         name = "CAS Orbit Point";
-        icon = "z\havoc\addons\xmarkers\data\orbit.paa";
+        icon = "z\XMARK\addons\xmarkers\data\orbit.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };
     class iconcasip {
         name = "CAS Initiation Point";
-        icon = "z\havoc\addons\xmarkers\data\aip.paa";
+        icon = "z\XMARK\addons\xmarkers\data\aip.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };
     class iconcascck {
         name = "CAS Communications Point";
-        icon = "z\havoc\addons\xmarkers\data\ackp.paa";
+        icon = "z\XMARK\addons\xmarkers\data\ackp.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };
     class iconcasep {
         name = "CAS Egress Point";
-        icon = "z\havoc\addons\xmarkers\data\aep.paa";
+        icon = "z\XMARK\addons\xmarkers\data\aep.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };
     class iconcasdz {
         name = "Drop Zone";
-        icon = "z\havoc\addons\xmarkers\data\DZ.paa";
+        icon = "z\XMARK\addons\xmarkers\data\DZ.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };
     class iconcasilz {
         name = "Landing Zone Insertion";
-        icon = "z\havoc\addons\xmarkers\data\ILZ.paa";
+        icon = "z\XMARK\addons\xmarkers\data\ILZ.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };
     class iconcaselz {
         name = "Landing Zone Extraction";
-        icon = "z\havoc\addons\xmarkers\data\ELZ.paa";
+        icon = "z\XMARK\addons\xmarkers\data\ELZ.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };
     class iconcasflz {
-        name = "False Landing Zone";
-        icon = "z\havoc\addons\xmarkers\data\FLZ.paa";
+        name =  "Landing Zone False\Fake";
+        icon = "z\XMARK\addons\xmarkers\data\FLZ.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };
     class iconassultd {
         name = "Assult";
-        icon = "z\havoc\addons\xmarkers\data\assult.paa";
+        icon = "z\XMARK\addons\xmarkers\data\assult.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };
     class iconsupportd {
         name = "Support";
-        icon = "z\havoc\addons\xmarkers\data\support.paa";
+        icon = "z\XMARK\addons\xmarkers\data\support.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };
-    class iconhavocx {
+    class iconXMARKx {
         name = "X";
-        icon = "z\havoc\addons\xmarkers\data\x.paa";
+        icon = "z\XMARK\addons\xmarkers\data\x.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };
-    class iconhavocnrp {
+    class iconXMARKnrp {
         name = "Dive Referance Point";
-        icon = "z\havoc\addons\xmarkers\data\nrp.paa";
+        icon = "z\XMARK\addons\xmarkers\data\nrp.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };
-    class iconhavocnsp {
+    class iconXMARKnsp {
         name = "Dive Special Referance Point";
-        icon = "z\havoc\addons\xmarkers\data\nsp.paa";
+        icon = "z\XMARK\addons\xmarkers\data\nsp.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };
-    class iconhavocnnp {
+    class iconXMARKnnp {
         name = "Dive Navigation Point";
-        icon = "z\havoc\addons\xmarkers\data\nnp.paa";
+        icon = "z\XMARK\addons\xmarkers\data\nnp.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };
-    class iconhavocdive {
+    class iconXMARKdive {
         name = "Dive Point";
-        icon = "z\havoc\addons\xmarkers\data\dive.paa";
+        icon = "z\XMARK\addons\xmarkers\data\dive.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };
-    class iconhavocsurface {
-        name = "Surface Point";
-        icon = "z\havoc\addons\xmarkers\data\surface.paa";
+    class iconXMARKsurface {
+        name = "Dive Surface Point";
+        icon = "z\XMARK\addons\xmarkers\data\surface.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };
-    class iconhavocland {
-        name = "Landing Point";
-        icon = "z\havoc\addons\xmarkers\data\land.paa";
+    class iconXMARKland {
+        name = "Dive\Amphibious Landing Point";
+        icon = "z\XMARK\addons\xmarkers\data\land.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     };   
-    class iconhavocacrew {
+    class iconXMARKacrew {
         name = "Downed Aircrew";
-        icon = "z\havoc\addons\xmarkers\data\down.paa";
+        icon = "z\XMARK\addons\xmarkers\data\down.paa";
         size = 24;
-        shadow = True;
-        scope = 2;
+        shadow = False;
+        scope=2;
+		scopeCurator=2;
+		markerClass="xmark_assets";
         color[] = {1, 1, 1, 1};
     }; 
     class hd_dot {

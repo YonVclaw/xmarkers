@@ -12,4 +12,12 @@ class CfgPatches {
     };
 };
 
+class CfgMarkerClasses
+{
+	class xmark_assets
+	{
+		displayName="X Markers";
+	};
+};
+
 #include "CfgMarkers.hpp"
