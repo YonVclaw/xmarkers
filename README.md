@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/github/downloads/acemod/arma-project-template/total.svg?style=flat-square&label=Downloads" alt="Downloads">
     </a>
     <a href="https://github.com/YonVclaw/xmarkers/blob/master/LICENSE">
-        <img src="https://img.shields.io/badge/License-MIT-red.svg?style=flat-square" alt="License">
+        <img src="https://www.bohemia.net/assets/img/licenses/APL-SA.png" width="56" alt="License">
     </a>
 </p>
 <p align="center">
